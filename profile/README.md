@@ -5,14 +5,14 @@
 ### 🚀 Specialties
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=godot,cpp,cs,python,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux" />
 </p>
 
 * 🎮 Game Development
 * ⚡ Godot Engine
 * 🐧 Linux
 * 🛠️ Open Source
-* 🎨 UI & Tools Development
+* Python (beginner)
 
 ### 📊 GitHub Stats
 
