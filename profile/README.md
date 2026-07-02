@@ -10,6 +10,7 @@
 
 * 🎮 Game Development
 * ⚡ Godot Engine
+* Construct 3
 * 🐧 Linux
 * 🛠️ Open Source
 * Python (beginner)
