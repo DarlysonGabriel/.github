@@ -2,17 +2,19 @@
 
 💻 Passionate about building games, tools, and open-source projects.
 
+🤓 I work primarily with graphics issues, shaders, graphic lighting, and other aspects. 
+
 ### 🚀 Specialties
 
 * 🎮 Game Development
 * ⚡ Godot Engine
 * 💻 Construct 3
-* 🐧 Linux
+* 🐧 Linux (distros in general)
 * 🛠️ Open Source
 * 🐍 Python (beginner)
 
  <p align="left">
-  <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux,vscode,obsidian,arch,gmail,libreoffice" />
 </p>
 
 
