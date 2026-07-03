@@ -4,16 +4,16 @@
 
 ### 🚀 Specialties
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux" />
-</p>
-
 * 🎮 Game Development
 * ⚡ Godot Engine
-* Construct 3
+* 💻 Construct 3
 * 🐧 Linux
 * 🛠️ Open Source
-* Python (beginner)
+* 🐍 Python (beginner)
+
+ <p align="left">
+  <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux" />
+</p>
 
 
 > *Always learning. Always building.*
