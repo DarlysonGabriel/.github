@@ -6,6 +6,8 @@
 
 🇧🇷 I am Brazilian, and I am learning to write and speak in English. 
 
+😎 I've been in the game development world for 2 years. Despite everything, I still have a lot to learn. 
+
 ### 🚀 Specialties
 
 * 🎮 Game Development
