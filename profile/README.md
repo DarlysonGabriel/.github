@@ -2,7 +2,9 @@
 
 💻 Passionate about building games, tools, and open-source projects.
 
-🤓 I work primarily with graphics issues, shaders, graphic lighting, and other aspects. 
+🤓 I work primarily with graphics issues, shaders, graphic lighting, and other aspects.
+
+🇧🇷 I am Brazilian, and I am learning to write and speak in English. 
 
 ### 🚀 Specialties
 
