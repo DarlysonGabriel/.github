@@ -18,7 +18,7 @@
 * 🐍 Python (beginner)
 
  <p align="left">
-  <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux,vscode,obsidian,arch" />
+  <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux,arch" />
 </p>
 
 
