@@ -14,12 +14,10 @@
 * ⚡ Godot Engine
 * 💻 Construct 3
 * 🐧 Linux (distros in general)
-* 🛠️ Open Source
 * 🐍 Python (beginner)
 
  <p align="left">
   <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux,arch" />
 </p>
-
 
 > *Always learning. Always building.*
