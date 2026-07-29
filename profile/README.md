@@ -20,6 +20,6 @@
   <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux,arch" />
 </p>
 
-[BR Readme]()
+[BR Readme](https://github.com/DarlysonGabriel/.github/blob/main/profile/README_BR.md)
 
 > *Always learning. Always building.*
