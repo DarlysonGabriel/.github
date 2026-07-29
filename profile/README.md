@@ -20,4 +20,6 @@
   <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux,arch" />
 </p>
 
+[BR Readme]()
+
 > *Always learning. Always building.*
