@@ -1,23 +1,23 @@
-# Olá, eu sou Darlyson Gabriel 👋
+# Hi, I'm Darlyson Gabriel 👋
 
-💻 Apaixonado por criar jogos, ferramentas e projetos de código aberto.
+💻 Passionate about building games, tools, and open-source projects.
 
-🤓 Trabalho principalmente com questões gráficas, shaders, iluminação gráfica e outros aspectos relacionados.
+🤓 I work primarily with graphics issues, shaders, graphic lighting, and other aspects.
 
-🇧🇷 Sou brasileiro e estou aprendendo a escrever e falar em inglês.
+🇧🇷 I am Brazilian, and I am learning to write and speak in English. 
 
-😎 Estou no mundo do desenvolvimento de jogos há 2 anos. Apesar disso, ainda tenho muito a aprender.
+😎 I've been in the game development world for 2 years. Despite everything, I still have a lot to learn. 
 
-### 🚀 Especialidades
+### 🚀 Specialties
 
-* 🎮 Desenvolvimento de Jogos
+* 🎮 Game Development
 * ⚡ Godot Engine
 * 💻 Construct 3
-* 🐧 Linux (distribuições em geral)
-* 🐍 Python (iniciante)
+* 🐧 Linux (distros in general)
+* 🐍 Python (beginner)
 
-<p align="left">
+ <p align="left">
   <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux,arch" />
 </p>
 
-> *Sempre aprendendo. Sempre construindo.*
+> *Always learning. Always building.*
