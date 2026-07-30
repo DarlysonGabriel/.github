@@ -17,7 +17,7 @@
 * 🐍 Python (iniciante)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux,arch" />
+  <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux,arch,vscode" />
 </p>
 
 [Original Readme](https://github.com/DarlysonGabriel/.github/blob/main/profile/README.md)
