@@ -20,5 +20,8 @@
   <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux,arch" />
 </p>
 
+[Original Readme](https://github.com/DarlysonGabriel/.github/blob/main/profile/README.md)
+[Meu site](https://darlyson-gabriel-por-0vao.bolt.host)
+
 > *Sempre aprendendo. Sempre construindo.*
 
