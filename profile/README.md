@@ -20,7 +20,10 @@
   <img src="https://skillicons.dev/icons?i=godot,python,git,github,linux,arch,vscode" />
 </p>
 
+## Navegation 
+
 [BR Readme](https://github.com/DarlysonGabriel/.github/blob/main/profile/README_BR.md)
+
 [My site](https://darlyson-gabriel-por-0vao.bolt.host)
 
 > *Always learning. Always building.*
