@@ -12,6 +12,8 @@
 
 ### 🚀 Specialties
 
+![spe](https://github.com/DarlysonGabriel/.github/blob/main/profile/assets/Novo%20projeto%20204%20%5B20A9C44%5D.gif)
+
 * 🎮 Game Development
 * ⚡ Godot Engine
 * 💻 Construct 3
@@ -24,7 +26,7 @@
 
 ## Navegation 
 
-[BR Readme](https://github.com/DarlysonGabriel/.github/blob/main/profile/README_BR.md)
+[BR Readmep](https://github.com/DarlysonGabriel/.github/blob/main/profile/README_BR.md)
 
 [My site](https://darlyson-gabriel-por-0vao.bolt.host)
 
