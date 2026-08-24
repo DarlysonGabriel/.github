@@ -1,6 +1,6 @@
-# Hi, I'm Darlyson Gabriel 👋
-
 ![ass](https://github.com/DarlysonGabriel/.github/blob/main/profile/assets/Novo%20projeto%20203%20%5B20A9C44%5D.gif)
+
+# Hi, I'm Darlyson Gabriel 👋
 
 💻 Passionate about building games, tools, and open-source projects.
 
@@ -12,7 +12,7 @@
 
 ### 🚀 Specialties
 
-![spe](https://github.com/DarlysonGabriel/.github/blob/main/profile/assets/Novo%20projeto%20204%20%5B20A9C44%5D.gif)
+![spe](https://github.com/DarlysonGabriel/.github/blob/main/profile/assets/Novo%20projeto%20204%20%5B7144025%5D.gif)
 
 * 🎮 Game Development
 * ⚡ Godot Engine
