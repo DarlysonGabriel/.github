@@ -1,6 +1,6 @@
 # Hi, I'm Darlyson Gabriel 👋
 
-![ass]()
+![ass](https://github.com/DarlysonGabriel/.github/blob/main/profile/assets/Novo%20projeto%20203%20%5B20A9C44%5D.gif)
 
 💻 Passionate about building games, tools, and open-source projects.
 
