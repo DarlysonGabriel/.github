@@ -1,5 +1,7 @@
 # Hi, I'm Darlyson Gabriel 👋
 
+![ass]()
+
 💻 Passionate about building games, tools, and open-source projects.
 
 🤓 I work primarily with graphics issues, shaders, graphic lighting, and other aspects.
