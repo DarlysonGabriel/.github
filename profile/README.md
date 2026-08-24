@@ -1,14 +1,11 @@
-![ass](https://github.com/DarlysonGabriel/.github/blob/main/profile/assets/Novo%20projeto%20203%20%5B20A9C44%5D.gif)
-
 # 👋 Hi, I'm Darlyson Gabriel
 
-«🎮 Game Developer | Godot | Graphics | Linux»
+》🎮 Game Developer | Godot | Graphics | Linux《
 
 I'm a Brazilian developer focused on game development, mainly using Godot Engine and GDScript.
 
 I like building gameplay systems, experimenting with graphics, creating reusable resources, and learning how things work under the hood.
 
----
 
 # 🧑‍💻 About Me
 
@@ -20,13 +17,12 @@ I like building gameplay systems, experimenting with graphics, creating reusable
 - 📚 Always learning and experimenting
 - ☕ Member of Coffe Studio
 
----
 
 # 🚀 Featured Projects
 
 ## 🏔️ Mountain Climbing
 
-«A 2D platform game about climbing a frozen mountain.»
+》A 2D platform game about climbing a frozen mountain.《
 
 Engine: Godot
 Language: GDScript
@@ -34,11 +30,10 @@ Studio: Coffe Studio
 
 🔗 [View Repository](https://github.com/Coffe-Studio/mountain-climbing)
 
----
 
 ## 🎨 Advanced Graphics Test
 
-«Graphics experiments and rendering studies made with Godot.»
+》Graphics experiments and rendering studies made with Godot.《
 
 Includes:
 
@@ -51,11 +46,10 @@ Includes:
 
 🔗 [View Repository](https://github.com/DarlysonGabriel/advanced-graphics-test)
 
----
 
 ## 🧰 Godot Resource Hub
 
-«A collection of reusable resources for Godot Engine.»
+》A collection of reusable resources for Godot Engine.《
 
 Focus:
 
@@ -65,9 +59,8 @@ Focus:
 - 📚 Documentation
 - 🔧 Godot development tools
 
-# 🔗 [View Repository](https://github.com/DarlysonGabriel/Godot-Resource-Hub)
+🔗 [View Repository](https://github.com/DarlysonGabriel/Godot-Resource-Hub)
 
----
 
 # 🛠️ Technologies
 
@@ -89,10 +82,9 @@ Focus:
 - GitHub
 - VS Code
 
----
 
 # 🎯 Currently Learning
-
+```
 ┌─────────────────────────────┐
 │       GAME DEVELOPMENT      │
 ├─────────────────────────────┤
@@ -103,38 +95,33 @@ Focus:
 │ 🧩 Reusable Architecture    │
 │ 🐧 Linux                    │
 └─────────────────────────────┘
-
----
+```
 
 # ☕ Coffe Studio
 
-«Coffe Studio is an independent game studio focused on creating original games and experimenting with different areas of game development.»
+》Coffe Studio is an independent game studio focused on creating original games and experimenting with different areas of game development.《
 
 Current Project
 
-# 🏔️ Mountain Climbing
+## 🏔️ Mountain Climbing
 
 A 2D platform game centered around climbing a frozen mountain.
 
----
 
 # 📊 GitHub
 
-«Most of my repositories are focused on game development, Godot, graphics experiments and development tools.»
+》Most of my repositories are focused on game development, Godot, graphics experiments and development tools.《
 
----
 
 # 📫 Contact
 
 - 🐙 GitHub: [@DarlysonGabriel](https://github.com/DarlysonGabriel)
 - 💻 Gmail: darlysongabriel.contato@gmail.com
 
----
 
-# 💡 Philosophy
+## 💡 Philosophy
 
 «Build. Experiment. Learn. Repeat.»
 
----
 
-# ⭐ If you find something interesting here, feel free to explore my repositories.
+> ⭐ If you find something interesting here, feel free to explore my repositories.
