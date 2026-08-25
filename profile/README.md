@@ -1,28 +1,45 @@
 # 👋 Hi, I'm Darlyson Gabriel
 
-》🎮 Game Developer | Godot | Graphics | Linux《
+«🎮 Game Developer | Godot | UI | Graphics | Linux»
 
-I'm a Brazilian developer focused on game development, mainly using Godot Engine and GDScript.
+I'm a Brazilian developer focused on game development with Godot Engine and GDScript.
 
-I like building gameplay systems, experimenting with graphics, creating reusable resources, and learning how things work under the hood.
+I enjoy creating gameplay systems, animated interfaces, visual effects, and small reusable projects to experiment with game development.
 
+---
 
 # 🧑‍💻 About Me
 
 - 🎮 Game Developer
 - 🔧 Godot Engine & GDScript
-- 🎨 Shaders, rendering & visual effects
-- 🧩 Gameplay systems & reusable tools
-- 🐧 Linux enthusiast
-- 📚 Always learning and experimenting
+- 🎨 UI, animations, shaders & visual effects
+- 🧩 Gameplay systems and reusable components
+- 🐧 Linux user
 - ☕ Member of Coffe Studio
 
+---
 
 # 🚀 Featured Projects
 
+## 🎨 Godot UI Animation Samples
+
+A collection of animated UI components, menu transitions and interface effects made with Godot Engine.
+
+Focus:
+
+- 🔘 Animated buttons
+- 📋 Menu transitions
+- 🪟 Panels and popups
+- ✨ UI feedback
+- 🎬 Screen transitions
+
+🔗 [View Repository](https://github.com/DarlysonGabriel/godot-ui-animation-samples)
+
+---
+
 ## 🏔️ Mountain Climbing
 
-》A 2D platform game about climbing a frozen mountain.《
+A 2D platform game about climbing a frozen mountain.
 
 Engine: Godot
 Language: GDScript
@@ -30,6 +47,7 @@ Studio: Coffe Studio
 
 🔗 [View Repository](https://github.com/Coffe-Studio/mountain-climbing)
 
+---
 
 # 🛠️ Technologies
 
@@ -43,54 +61,61 @@ Studio: Coffe Studio
 
 - GDScript
 - Python
+- bash
 
-## 🐧 Environment & Tools
+## 🐧 Tools & Environment
 
 - Linux
 - Git
 - GitHub
 - VS Code
 
+---
 
-# 🎯 Currently Learning
+# 🎯 Current Focus
 ```
-┌─────────────────────── ─┐
-│       GAME DEVELOPMENT      │
-├──────────────────────── |
-│ 🎮 Godot                    │
-│ ⚙️ Gameplay Systems         │
-│ 🎨 Shaders & Rendering      │
-│ ✨ Visual Effects           │
-│ 🧩 Reusable Architecture    │
-│ 🐧 Linux                    │
-└──────────────────────────
+GAME DEVELOPMENT
+│
+├── 🎮 Godot Engine
+├── 🎨 UI & Animation
+├── ⚙️ Gameplay Systems
+├── ✨ Visual Effects
+├── 🧩 Reusable Components
+└── 🐧 Linux
 ```
+---
 
 # ☕ Coffe Studio
 
-》Coffe Studio is an independent game studio focused on creating original games and experimenting with different areas of game development.《
+Coffe Studio is an independent game studio focused on creating original games and exploring different areas of game development.
 
 Current Project
 
-## 🏔️ Mountain Climbing
+# 🏔️ Mountain Climbing
 
 A 2D platform game centered around climbing a frozen mountain.
 
+---
 
-# 📊 GitHub
+# 📚 What I'm Building
 
-》Most of my repositories are focused on game development, Godot, graphics experiments and development tools.《
+«Small, focused projects designed to learn, experiment and build practical experience.»
 
+My repositories cover different areas of game development, from UI animation and gameplay systems to graphics and development tools.
 
-# 📫 Contact
+---
+#  📫 Contact
 
 - 🐙 GitHub: [@DarlysonGabriel](https://github.com/DarlysonGabriel)
-- 💻 Gmail: darlysongabriel.contato@gmail.com
-- 🌐 [My site](https://darlyson-gabriel-por-0vao.bolt.host/)
+- 🌐 Website: [darlyson-gabriel-por-0vao.bolt.host](https://darlyson-gabriel-por-0vao.bolt.host/)
+- 📧 Email: darlysongabriel.contato@gmail.com
 
-## 💡 Philosophy
+---
+
+# 💡 Philosophy
 
 «Build. Experiment. Learn. Repeat.»
 
+---
 
-> ⭐ If you find something interesting here, feel free to explore my repositories.
+> ⭐ Feel free to explore my repositories and follow my development journey.
