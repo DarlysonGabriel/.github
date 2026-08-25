@@ -31,37 +31,6 @@ Studio: Coffe Studio
 🔗 [View Repository](https://github.com/Coffe-Studio/mountain-climbing)
 
 
-## 🎨 Advanced Graphics Test
-
-》Graphics experiments and rendering studies made with Godot.《
-
-Includes:
-
-- ✦ Shaders
-- ✦ Lighting
-- ✦ Materials
-- ✦ Visual Effects
-- ✦ Rendering
-- ✦ Post-processing
-
-🔗 [View Repository](https://github.com/DarlysonGabriel/advanced-graphics-test)
-
-
-## 🧰 Godot Resource Hub
-
-》A collection of reusable resources for Godot Engine.《
-
-Focus:
-
-- 📦 ".tres" resources
-- 📦 ".res" resources
-- 🧩 Reusable systems
-- 📚 Documentation
-- 🔧 Godot development tools
-
-🔗 [View Repository](https://github.com/DarlysonGabriel/Godot-Resource-Hub)
-
-
 # 🛠️ Technologies
 
 ## 🎮 Game Development
@@ -85,16 +54,16 @@ Focus:
 
 # 🎯 Currently Learning
 ```
-┌─────────────────────────────┐
+┌─────────────────────── ─┐
 │       GAME DEVELOPMENT      │
-├─────────────────────────────┤
+├──────────────────────── |
 │ 🎮 Godot                    │
 │ ⚙️ Gameplay Systems         │
 │ 🎨 Shaders & Rendering      │
 │ ✨ Visual Effects           │
 │ 🧩 Reusable Architecture    │
 │ 🐧 Linux                    │
-└─────────────────────────────┘
+└──────────────────────────
 ```
 
 # ☕ Coffe Studio
