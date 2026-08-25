@@ -90,7 +90,7 @@ A 2D platform game centered around climbing a frozen mountain.
 
 # 📚 What I'm Building
 
-«Small, focused projects designed to learn, experiment and build practical experience.»
+_Small, focused projects designed to learn, experiment and build practical experience._
 
 My repositories cover different areas of game development, from UI animation and gameplay systems to graphics and development tools.
 
@@ -106,7 +106,5 @@ My repositories cover different areas of game development, from UI animation and
 # 💡 Philosophy
 
 «Build. Experiment. Learn. Repeat.»
-
-
 
 > ⭐ Feel free to explore my repositories and follow my development journey.
