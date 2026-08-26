@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/michael jackson pfp.jpg" alt="Darlyson Gabriel" width="900">
+  <img src="./assets/michael jackson pfp.jpg" alt="Darlyson Gabriel" width="400">
 </p>
 
 
