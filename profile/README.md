@@ -1,169 +1,162 @@
 <p align="center">
-  <img src="./assets/michael jackson pfp.jpg" alt="Darlyson Gabriel" width="300">
+  <img src="./assets/michael jackson pfp.jpg" alt="Darlyson Gabriel" width="380">
 </p>
 
 <h1 align="center">✦ Darlyson Gabriel ✦</h1>
 
 <p align="center">
-  <strong>Game Developer • Godot • UI • Graphics • Linux</strong>
+  <strong>🎮 Game Developer · Godot · UI · Graphics · Linux</strong>
 </p>
 
 <p align="center">
-  ────────────────────────────────
+  ─────────────────────────────────────
 </p>
 
-<h2>
-  <img src="./assets/kingofpop.gif" width="28">
-  About Me
+<h2 align="center">
+  👋 About Me
 </h2>
 
-> 🎮 Game Developer focused on creating games, systems and interactive experiences with **Godot Engine**.
+<p align="center">
+  I'm a Game Developer focused on creating games, systems,
+  <br>
+  and interactive experiences with <strong>Godot Engine</strong>.
+</p>
 
-I enjoy experimenting with **UI animation, gameplay systems, graphics and visual effects**, while building small projects that can be completed, documented and reused.
+<p align="center">
+  I enjoy experimenting with UI animation, gameplay systems,
+  <br>
+  graphics and visual effects through small and focused projects.
+</p>
 
-```text
-╔>════════════════════════════════════<═╗
-║             D A R L Y S O N           ║
-║                                       ║
-║       🎮 GAME DEVELOPMENT             ║
-║       🎨 UI & ANIMATION               ║
-║       ✨ GRAPHICS                     ║
-║       ⚙️ SYSTEMS                      ║
-║       🐧 LINUX                        ║
-╚>════════════════════════════════════<═╝
-```
+<br>
 
-<h2>
-  <img src="./assets/michael-jackson-king-of-pop.gif" width="28">
-  Featured Projects
+<h2 align="center">
+  🎮 Featured Projects
 </h2>
 
-### 🎨 Godot UI Animation Samples
+<p align="center">
+  <strong>✦ Godot UI Animation Samples ✦</strong>
+</p>
 
-> Animated UI components, menu transitions and interface effects made with Godot Engine.
+<p align="center">
+  A collection of animated UI components, menu transitions
+  <br>
+  and interface effects made with Godot Engine.
+</p>
 
-**Focus:**
+<p align="center">
+  🔘 Buttons · 📋 Menus · 🪟 Panels · ✨ Transitions
+</p>
 
-* 🔘 Animated buttons
-* 📋 Menu transitions
-* 🪟 Panels and popups
-* ✨ UI feedback
-* 🎬 Screen transitions
+<p align="center">
+  <a href="https://github.com/DarlysonGabriel/godot-ui-animation-samples">
+    <strong>→ View Repository</strong>
+  </a>
+</p>
 
-🔗 [View Repository](https://github.com/DarlysonGabriel/godot-ui-animation-samples)
+<br>
 
----
+<p align="center">
+  <strong>✦ Mountain Climbing ✦</strong>
+</p>
 
-### 🏔️ Mountain Climbing
+<p align="center">
+  A 2D platform game about climbing a frozen mountain.
+  <br>
+  Developed with <strong>Godot</strong> by <strong>Coffe Studio</strong>.
+</p>
 
-> A 2D platform game about climbing a frozen mountain.
+<p align="center">
+  <a href="https://github.com/Coffe-Studio/mountain-climbing">
+    <strong>→ View Repository</strong>
+  </a>
+</p>
 
-**Engine:** Godot
-**Language:** GDScript
-**Studio:** Coffe Studio
+<br>
 
-🔗 [View Repository](https://github.com/Coffe-Studio/mountain-climbing)
-
-<h2>
-  <img src="./assets/michael-jackson-king-of-pop.gif" width="28">
-  Technologies
+<h2 align="center">
+  🛠️ Technologies
 </h2>
 
-### 🎮 Game Development
+<p align="center">
+  <strong>Game Development</strong>
+  <br>
+  Godot Engine · GDScript · Construct 3
+</p>
 
-```text
-Godot Engine
-GDScript
-Construct 3
-```
+<p align="center">
+  <strong>Programming</strong>
+  <br>
+  GDScript · Python
+</p>
 
-### 💻 Programming
+<p align="center">
+  <strong>Tools & Environment</strong>
+  <br>
+  Git · GitHub · Linux · VS Code
+</p>
 
-```text
-GDScript
-Python
-```
+<br>
 
-### 🐧 Tools
-
-```text
-Linux
-Git
-GitHub
-VS Code
-```
-
-<h2>
-  <img src="./assets/michael-jackson-michael-jackson-popcorn.gif" width="28">
-  Current Focus
+<h2 align="center">
+  🎯 Current Focus
 </h2>
 
-```text
-              ✦ CURRENTLY BUILDING ✦
+<table align="center">
+  <tr>
+    <td align="center">🎨<br><strong>UI</strong></td>
+    <td align="center">⚙️<br><strong>Systems</strong></td>
+    <td align="center">✨<br><strong>Graphics</strong></td>
+    <td align="center">🎮<br><strong>Game Dev</strong></td>
+  </tr>
+</table>
 
-                    🎮
-             GAME DEVELOPMENT
-                    │
-          ┌─────────┼─────────┐
-          ↓         ↓         ↓
-        UI       SYSTEMS    GRAPHICS
-          │         │         │
-          └─────────┼─────────┘
-                    ↓
-               GODOT ENGINE
-```
+<p align="center">
+  ↓
+  <br>
+  <strong>Godot Engine</strong>
+</p>
 
-<h2>
+<br>
+
+<h2 align="center">
   ☕ Coffe Studio
 </h2>
 
-☕ **Coffe Studio** is an independent game studio focused on creating original games and exploring different areas of game development.
-
-### Current Project
-
-🏔️ **Mountain Climbing**
-
-A 2D platform game centered around climbing a frozen mountain.
-
-<h2>
-  My Approach
-</h2>
-
-> **Build. Experiment. Learn. Repeat.**
-
-I prefer small and focused projects that allow me to experiment with an idea, finish it, document it and move on to the next challenge.
-
-```text
-IDEA
- ↓
-BUILD
- ↓
-TEST
- ↓
-POLISH
- ↓
-DOCUMENT
- ↓
-RELEASE
-```
-
-<h2>
-  <img src="./assets/gifs/phone.gif" width="28">
-  Contact
-</h2>
-
-* 🐙 GitHub: [@DarlysonGabriel](https://github.com/DarlysonGabriel)
-* 🌐 Website: [darlyson-gabriel-por-0vao.bolt.host](https://darlyson-gabriel-por-0vao.bolt.host/)
-* 📸 Instagram: [@darlisongabriellima](https://instagram.com/darlisongabriellima)
-
 <p align="center">
-  ────────────────────────────────
+  An independent game studio focused on creating original games
+  <br>
+  and exploring different areas of game development.
 </p>
 
 <p align="center">
-  <img src="./assets/kingofpop.gif" width="55">
-  <br>
-  <strong>Keep creating. Keep moving.</strong>
-  <br>
+  <strong>Current Project → Mountain Climbing</strong>
+</p>
+
+<br>
+
+<h2 align="center">
+  📫 Contact
+</h2>
+
+<p align="center">
+  <a href="https://github.com/DarlysonGabriel">GitHub</a>
+  ·
+  <a href="https://darlyson-gabriel-por-0vao.bolt.host/">Website</a>
+  ·
+  <a href="https://instagram.com/darlisongabriellima">Instagram</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./assets/kingofpop.gif" width="55" alt="Michael Jackson">
+</p>
+
+<p align="center">
+  <strong>BUILD · EXPERIMENT · LEARN · REPEAT</strong>
+</p>
+
+<p align="center">
   <sub>© 2026 Darlyson Gabriel</sub>
 </p>
