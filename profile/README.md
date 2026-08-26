@@ -1,10 +1,23 @@
-# Hi, I'm Darlyson Gabriel
+<p align="center">
+  <img src="./assets/michael jackson pfp.jpg" alt="Darlyson Gabriel" width="900">
+</p>
+
+
+<h1>
+  Hi, I'm Darlyson Gabriel
+  <img src="./assets/michael-jackson-michael-jackson-popcorn.gif" width="55">
+</h1>
+
+
 
 I'm a Brazilian developer focused on game development with Godot Engine and GDScript.
 
 I enjoy creating gameplay systems, animated interfaces, visual effects, and small reusable projects to experiment with game development.
 
-# About Me
+<h1>
+  About me
+  <img src="./assets/michael-jackson-king-of-pop.gif" alt="Darlyson Gabriel" width="50">
+</h1>
 
 - 🎮 Game Developer
 - 🔧 Godot Engine & GDScript
@@ -90,7 +103,11 @@ _Small, focused projects designed to learn, experiment and build practical exper
 My repositories cover different areas of game development, from UI animation and gameplay systems to graphics and development tools.
 
 
-#  📫 Contact
+<h1>
+  📫 Contact
+  <img src="./assets/kingofpop.gif" alt="Darlyson Gabriel" width="50">
+</h1>
+
 
 - 🐙 GitHub: [@DarlysonGabriel](https://github.com/DarlysonGabriel)
 - 🌐 Website: [darlyson-gabriel-por-0vao.bolt.host](https://darlyson-gabriel-por-0vao.bolt.host/)
