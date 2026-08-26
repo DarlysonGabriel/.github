@@ -8,10 +8,6 @@
   <strong>🎮 Game Developer · Godot · UI · Graphics · Linux</strong>
 </p>
 
-<p align="center">
-  ─────────────────────────────────────
-</p>
-
 <h2 align="center">
   👋 About Me
 </h2>
@@ -124,9 +120,9 @@
 </h2>
 
 <p align="center">
-  An independent game studio focused on creating original games
+  an independent game studio based in a café 
   <br>
-  and exploring different areas of game development.
+  exploring different areas of game development.
 </p>
 
 <p align="center">
@@ -141,16 +137,15 @@
 
 <p align="center">
   <a href="https://github.com/DarlysonGabriel">GitHub</a>
-  ·
+  •
   <a href="https://darlyson-gabriel-por-0vao.bolt.host/">Website</a>
-  ·
-  <a href="https://instagram.com/darlisongabriellima">Instagram</a>
+  
 </p>
 
 <br>
 
 <p align="center">
-  <img src="./assets/kingofpop.gif" width="55" alt="Michael Jackson">
+  <img src="https://raw.githubusercontent.com/DarlysonGabriel/.github/main/profile/assets/kingofpop.gif" width="55" alt="Michael Jackson">
 </p>
 
 <p align="center">
