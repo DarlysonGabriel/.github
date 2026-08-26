@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Darlyson Gabriel
+# Hi, I'm Darlyson Gabriel
 
 I'm a Brazilian developer focused on game development with Godot Engine and GDScript.
 
 I enjoy creating gameplay systems, animated interfaces, visual effects, and small reusable projects to experiment with game development.
 
-# 🧑‍💻 About Me
+# About Me
 
 - 🎮 Game Developer
 - 🔧 Godot Engine & GDScript
@@ -13,9 +13,9 @@ I enjoy creating gameplay systems, animated interfaces, visual effects, and smal
 - 🐧 Linux user
 - ☕ Member of Coffe Studio
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🎨 Godot UI Animation Samples
+## Godot UI Animation Samples
 
 A collection of animated UI components, menu transitions and interface effects made with Godot Engine.
 
@@ -41,7 +41,7 @@ Studio: Coffe Studio
 🔗 [View Repository](https://github.com/Coffe-Studio/mountain-climbing)
 
 
-# 🛠️ Technologies
+# Technologies
 
 ## 🎮 Game Development
 
@@ -63,7 +63,7 @@ Studio: Coffe Studio
 - VS Code
 
 
-# 🎯 Current Focus
+# Current Focus
 ```
 GAME DEVELOPMENT
 │
@@ -82,11 +82,6 @@ Coffe Studio is an independent game studio focused on creating original games an
 
 Current Project
 
-# 🏔️ Mountain Climbing
-
-A 2D platform game centered around climbing a frozen mountain.
-
-
 
 # 📚 What I'm Building
 
@@ -102,9 +97,3 @@ My repositories cover different areas of game development, from UI animation and
 - 📧 Email: darlysongabriel.contato@gmail.com
 
 
-
-# 💡 Philosophy
-
-«Build. Experiment. Learn. Repeat.»
-
-> ⭐ Feel free to explore my repositories and follow my development journey.
