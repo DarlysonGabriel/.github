@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarlysonGabriel/.github/main/profile/assets/michael jackson pfp.jpg" alt="Darlyson Gabriel" width="380">
+  <img src="https://raw.githubusercontent.com/DarlysonGabriel/.github/main/profile/assets/michael jackson pfp.jpg" alt="Darlyson Gabriel" width="480">
 </p>
 
 <h1 align="center">✦ Darlyson Gabriel ✦</h1>
