@@ -30,26 +30,6 @@
   🎮 Featured Projects
 </h2>
 
-<p align="center">
-  <strong>✦ Godot UI Animation Samples ✦</strong>
-</p>
-
-<p align="center">
-  A collection of animated UI components, menu transitions
-  <br>
-  and interface effects made with Godot Engine.
-</p>
-
-<p align="center">
-  🔘 Buttons · 📋 Menus · 🪟 Panels · ✨ Transitions
-</p>
-
-<p align="center">
-  <a href="https://github.com/DarlysonGabriel/godot-ui-animation-samples">
-    <strong>→ View Repository</strong>
-  </a>
-</p>
-
 <br>
 
 <p align="center">
