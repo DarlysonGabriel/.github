@@ -5,7 +5,7 @@
 <h1 align="center">✦ Darlyson Gabriel ✦</h1>
 
 <p align="center">
-  <strong>🎮 Game Developer · Godot · UI · Graphics · Linux</strong>
+  <strong>Game Dev · Godot · Experiments  · Graphics · Linux</strong>
 </p>
 
 <h2 align="center">
@@ -80,9 +80,8 @@
 
 <table align="center">
   <tr>
-    <td align="center">🎨<br><strong>UI</strong></td>
+    <td align="center">💻<br><strong>Expririments</strong></td>
     <td align="center">⚙️<br><strong>Systems</strong></td>
-    <td align="center">✨<br><strong>Graphics</strong></td>
     <td align="center">🎮<br><strong>Game Dev</strong></td>
   </tr>
 </table>
@@ -100,7 +99,7 @@
 </h2>
 
 <p align="center">
-  an independent game studio based in a café 
+  an independent game studio based in a coffee 
   <br>
   exploring different areas of game development.
 </p>
