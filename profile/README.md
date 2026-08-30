@@ -149,7 +149,7 @@
 </p>
 
 <p align="center">
-  <strong>BUILD · EXPERIMENT · LEARN · REPEAT</strong>
+  <strong>Hee Hee 🎤</strong>
 </p>
 
 <p align="center">
