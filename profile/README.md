@@ -22,31 +22,6 @@
   I enjoy experimenting with UI animation, gameplay systems,
   <br>
   graphics and visual effects through small and focused projects.
-</p>
-
-<br>
-
-<h2 align="center">
-  🎮 Featured Projects
-</h2>
-
-<br>
-
-<p align="center">
-  <strong>✦ Mountain Climbing ✦</strong>
-</p>
-
-<p align="center">
-  A 2D platform game about climbing a frozen mountain.
-  <br>
-  Developed with <strong>Godot</strong> by <strong>Coffe Studio</strong>.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Coffe-Studio/mountain-climbing">
-    <strong>→ View Repository</strong>
-  </a>
-</p>
 
 <br>
 
@@ -72,8 +47,6 @@
   Git · GitHub · Linux · VS Code
 </p>
 
-<br>
-
 <h2 align="center">
   🎯 Current Focus
 </h2>
@@ -91,24 +64,6 @@
   <br>
   <strong>Godot Engine</strong>
 </p>
-
-<br>
-
-<h2 align="center">
-  ☕ Coffe Studio
-</h2>
-
-<p align="center">
-  an independent game studio based in a coffee 
-  <br>
-  exploring different areas of game development.
-</p>
-
-<p align="center">
-  <strong>Current Project → Mountain Climbing</strong>
-</p>
-
-<br>
 
 <h2 align="center">
   📫 Contact
