@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarlysonGabriel/.github/main/profile/assets/michael jackson pfp.jpg" alt="Darlyson Gabriel" width="480">
+  <img src="https://github.com/DarlysonGabriel/.github/blob/main/profile/assets/12d1609ca2a6e1cc81f0fdc162c15d57.jpg" alt="Darlyson Gabriel" width="400">
 </p>
 
 <h1 align="center">✦ Darlyson Gabriel ✦</h1>
 
 <p align="center">
-  <strong>Game Dev · Godot · Experiments  · Graphics · Linux</strong>
+  <strong>Game Dev · Godot · Experiments   · Linux</strong>
 </p>
 
 <h2 align="center">
@@ -44,7 +44,7 @@
 <p align="center">
   <strong>Tools & Environment</strong>
   <br>
-  Git · GitHub · Linux · VS Code
+  Git · GitHub · Linux · Code
 </p>
 
 <h2 align="center">
