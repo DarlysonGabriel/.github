@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/DarlysonGabriel/.github/blob/main/profile/assets/3289edc88abc852a38e79bb6caad3dd5.jpg" alt="Darlyson Gabriel" width="480">
+  <img src="https://github.com/DarlysonGabriel/.github/blob/main/profile/assets/file_000000003c24820eb57423d04e484fc9.png" alt="Darlyson Gabriel" width="480">
 </p>
 
 <h1 align="center">✦ Darlyson Gabriel ✦</h1>
 
 <p align="center">
-  <strong>Game Dev · Godot · Experiments   · Linux</strong>
+  <strong>Game Dev · Godot · Experiments · Linux</strong>
 </p>
 
 <h2 align="center">
@@ -32,7 +32,7 @@
 <p align="center">
   <strong>Game Development</strong>
   <br>
-  Godot Engine · GDScript · Construct 3
+  Godot Engine · Claude AI
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 <p align="center">
   <strong>Tools & Environment</strong>
   <br>
-  Git · GitHub · Linux · Code
+  Git · GitHub · Linux · VScode
 </p>
 
 <h2 align="center">
@@ -55,7 +55,7 @@
   <tr>
     <td align="center">💻<br><strong>Expririments</strong></td>
     <td align="center">⚙️<br><strong>Systems</strong></td>
-    <td align="center">🎮<br><strong>Game Dev</strong></td>
+    <td align="center">⭐️<br><strong>Claude</strong></td>
   </tr>
 </table>
 
@@ -79,11 +79,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarlysonGabriel/.github/main/profile/assets/kingofpop.gif" width="55" alt="Michael Jackson">
-</p>
-
-<p align="center">
-  <strong>Hee Hee 🎤</strong>
+  <strong>Meow 🐱</strong>
 </p>
 
 <p align="center">
