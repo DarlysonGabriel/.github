@@ -10,12 +10,12 @@
 <h1 align="center">Darlyson Gabriel</h1>
 
 <p align="center">
-  <strong>Game Developer 路 Godot Engine 路 Developer Tools 路 Linux</strong>
+  <strong>Game Developer • Godot Engine • Developer Tools • Linux</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/DarlysonGabriel">GitHub</a>
-  &nbsp;路&nbsp;
+  &nbsp;|&nbsp;
   <a href="https://darlyson-gabriel-por-0vao.bolt.host/">Portfolio / Website</a>
 </p>
 
@@ -56,32 +56,32 @@ These projects represent the areas I currently explore: game development, develo
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DarlysonGabriel/Claude-Godot-Maintainer">Claude Godot Maintainer</a></h3>
       <p>A development skill and reference set for maintaining GitHub repositories and working with Godot projects. It covers code analysis, debugging, optimization, documentation, and repository workflows.</p>
-      <p><sub>Godot 路 GDScript 路 AI-assisted tooling 路 Documentation</sub></p>
+      <p><sub>Godot • GDScript • AI-assisted tooling • Documentation</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DarlysonGabriel/CodJam-Leg4">CodJam Leg4</a></h3>
       <p>An ongoing modernization study of the legacy LEGAL 3 robotics programming environment, with an emphasis on understanding the original software and documenting a maintainable direction.</p>
-      <p><sub>Robotics 路 Legacy software 路 Java artifacts 路 Research</sub></p>
-      <p><em>Early development 鈥� not yet a stable replacement for the original software.</em></p>
+      <p><sub>Robotics • Legacy software • Java artifacts • Research</sub></p>
+      <p><em>Early development — not yet a stable replacement for the original software.</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DarlysonGabriel/Settings-Menu-Godot">Settings Menu 鈥� Godot</a></h3>
+      <h3><a href="https://github.com/DarlysonGabriel/Settings-Menu-Godot">Settings Menu — Godot</a></h3>
       <p>A reusable settings-menu project intended to make common configuration screens easier to integrate into small Godot games.</p>
-      <p><sub>Godot 4 路 GDScript 路 UI systems 路 MIT License</sub></p>
+      <p><sub>Godot 4 • GDScript • UI systems • MIT License</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DarlysonGabriel/Game-TopDown-Test">Top-Down 2D Game Prototype</a></h3>
       <p>A 2D top-down game experiment built with Godot and pixel-art assets. Used to explore the structure and feel of a small game project.</p>
-      <p><sub>Godot 路 GDScript 路 2D 路 Pixel art</sub></p>
+      <p><sub>Godot • GDScript • 2D • Pixel art</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DarlysonGabriel/IA-local-on-mobile">Local AI on Android</a></h3>
       <p>A practical guide to running a quantized language model locally on Android using Termux and `llama.cpp`, including server configuration and a local web interface.</p>
-      <p><sub>Android 路 Termux 路 Linux 路 llama.cpp 路 GGUF</sub></p>
+      <p><sub>Android • Termux • Linux • llama.cpp • GGUF</sub></p>
     </td>
     <td width="50%" valign="top">
       <p><sub>More experiments and technical projects are listed below.</sub></p>
@@ -114,5 +114,5 @@ I'm interested in game development, Godot tooling, graphics experiments, Linux, 
 ---
 
 <p align="center">
-  <sub>Building, testing, learning 鈥� with a little cat energy. 喔區鈥粚鈥喔�</sub>
+  <sub>Building, testing, learning — with a little cat energy. </sub>
 </p>
