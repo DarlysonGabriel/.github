@@ -31,11 +31,11 @@
 
 ## About me
 
-I'm an independent developer from Brazil focused on **game development and software experiments**. My main area of work is the **Godot Engine**, where I build gameplay prototypes, reusable UI systems, visual effects, and 2D/3D experiments.
+I'm a solo developer from Brazil. My focus is on creating games and software using Godot Engine. I have experience building prototypes, UI libraries, special effects and 2D/3D experiments.
 
-I also explore Linux environments, developer tooling, robotics programming, and local AI inference on mobile hardware. I enjoy understanding how systems work, documenting what I learn, and improving projects through small, deliberate iterations.
+I also like to experiment with Linux systems, developer tools, robot programming and doing inference with local AI models on mobile devices. Overall, I like to understand how things work, write documentation about it and improve my projects with small improvements.
 
-My approach is practical: keep implementations understandable, avoid unnecessary complexity, and validate changes instead of relying on assumptions.
+I try to keep things simple and easy to understand. I don't like unnecessary complications and always try to make sure that changes are actually working.
 
 ## What I'm working with
 
