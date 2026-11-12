@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Godot-Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot Engine">
   <img src="https://img.shields.io/badge/GDScript-Game%20Development-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript">
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Linux-Daily%20Environment-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux">
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
@@ -42,7 +41,7 @@ I try to keep things simple and easy to understand. I don't like unnecessary com
 | Area | Technologies and interests |
 | --- | --- |
 | **Game development** | Godot Engine, GDScript, gameplay systems, UI, shaders, graphics and performance experiments |
-| **Programming** | GDScript, Python (learning), shell scripting, Java legacy-code exploration |
+| **Programming** | GDScript, shell scripting, Java legacy-code exploration |
 | **Developer tools** | Git, GitHub, VSCodium, terminal-based workflows |
 | **Systems** | Linux, Arch Linux, Termux, lightweight environments |
 | **AI-assisted development** | ChatGPT, Claude Code, local models with `llama.cpp` |
